@@ -1,0 +1,872 @@
+[
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "PSY10100",
+    "Module leader": "DR RORY MACLEAN",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Psychology"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOE11118",
+    "Module leader": "PROF GEORGE MALCOTSIS",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "CTR07100",
+    "Module leader": "DR ANDREW MACIVER",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Civil and Transportation"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "10.00",
+    "ECTS credit value": "5",
+    "Module code": "MID09109",
+    "Module leader": "MISS AVRIL HENDRY",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Centre for Health and Wellbeing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LAW10107",
+    "Module leader": "MR KEN DALE-RISK",
+    "School": "Accounting Financial Services and Law",
+    "Subject area group": "Law"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SCA11118",
+    "Module leader": "MR GARY HALL",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Film & Photography"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOE11117",
+    "Module leader": "DR MARIO VELLA",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SES11104",
+    "Module leader": "MS CHRISTINE NASH",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Sport Science & Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "ELE07109",
+    "Module leader": "MR JAY HOY",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Electronics, Electrical and Mathematics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "08",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MEC08101",
+    "Module leader": "MR SANDEEP CHOWDHRY",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Mechanical, Materials and Manufacturing Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "CTR10107",
+    "Module leader": "MR JEREMY STRANG",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Building and Surveying"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LAW11117",
+    "Module leader": "MR LESLIE MILLIKEN",
+    "School": "Accounting Financial Services and Law",
+    "Subject area group": "Law"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "HLT11703",
+    "Module leader": "DR SALMA SIDDIQUE",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "BSV10111",
+    "Module leader": "DR ANDREW BROWN",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Building and Surveying"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "SOE10133",
+    "Module leader": "MS KAY PENNY",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "LAW10133",
+    "Module leader": "MS KAY PENNY",
+    "School": "Accounting Financial Services and Law",
+    "Subject area group": "Law"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "SOE11130",
+    "Module leader": "DR MOIRA HUGHES",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "NMS11614",
+    "Module leader": "DR DOROTHY HORSBURGH",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "CTR11522",
+    "Module leader": "DR KENNETH LEITCH",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Civil and Transportation"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "08",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "ADN08108",
+    "Module leader": "MS AILSA SHARP",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Nursing in Acute interventions"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NUR09112",
+    "Module leader": "MRS EMMA TROTTER",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Enduring Conditions and Community Care"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "BMS09106",
+    "Module leader": "MRS YVONNE CRUICKSHANK",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Biotechnology and Chemical Sciences"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "MUS10109",
+    "Module leader": "MR BRYDEN STILLIE",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Music"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "BSV10110",
+    "Module leader": "MR MICHAEL LEE",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Building and Surveying"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "JAC11112",
+    "Module leader": "MR PHILIP LODGE",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Art, Design & Communication"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "BMS11604",
+    "Module leader": "DR CLARE TAYLOR",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Biotechnology and Chemical Sciences"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ADN09105",
+    "Module leader": "MS LINDA KING",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Enduring Conditions and Community Care"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ADN09111",
+    "Module leader": "MR TOBY EDWARDS",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Nursing in Acute interventions"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "IMD09136",
+    "Module leader": "DR IAIN MCGREGOR",
+    "School": "Computing",
+    "Subject area group": "Digital Media and Interactive Design"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MKT09101",
+    "Module leader": "MR JOHN THOMSON",
+    "School": "Marketing Tourism and Languages",
+    "Subject area group": "Marketing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "DES11131",
+    "Module leader": "MISS KIRSTIE JAMIESON",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Art & Design"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "ADN07108",
+    "Module leader": "MR DAVID TAIT",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Enduring Conditions and Community Care"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NMS09143",
+    "Module leader": "MS RUTH PATERSON",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Centre for Health and Wellbeing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "ADN09130",
+    "Module leader": "MS BARBARA STEELE",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Enduring Conditions and Community Care"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NMS11165",
+    "Module leader": "MS RUTH PATERSON",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Centre for Health and Wellbeing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "HRM11103",
+    "Module leader": "DR VAUGHAN ELLIS",
+    "School": "Management",
+    "Subject area group": "Human Resource Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "HRM11106",
+    "Module leader": "DR JANICE MCMILLAN",
+    "School": "Management",
+    "Subject area group": "Human Resource Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "MID10105",
+    "Module leader": "DR YVONNE FREER",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Midwifery and Child Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "CTR10100",
+    "Module leader": "MR DANIEL BARRETO",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Civil and Transportation"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ELE10108",
+    "Module leader": "MR MARTIN ASKEY",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Mechanical, Materials and Manufacturing Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "NMS10104",
+    "Module leader": "MRS SUSANNE CRUICKSHANK",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "ENV10106",
+    "Module leader": "DR JASON GILCHRIST",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Animal and Plant Science"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "NMS11755",
+    "Module leader": "MRS JACKIE JOHNSTON",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Centre for Health and Wellbeing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "CLP07101",
+    "Module leader": "DR SARAH ARTT",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "English & Acting"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "SOC10102",
+    "Module leader": "MR IAN SMITH",
+    "School": "Computing",
+    "Subject area group": "Generic - School of Computing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MEC07106",
+    "Module leader": "MR COLIN BOSWELL",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Mechanical, Materials and Manufacturing Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MID07109",
+    "Module leader": "MS KATHRYN HARDIE",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Midwifery and Child Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "SOC10101",
+    "Module leader": "DR XIAODONG LIU",
+    "School": "Computing",
+    "Subject area group": "Generic - School of Computing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "MUS10105",
+    "Module leader": "MR GRAHAM WEIR",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Music"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "DES10013",
+    "Module leader": "MS MYRNA MACLEOD",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Art, Design & Communication"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LMD10109",
+    "Module leader": "DR ALISTAIR SCOTT",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Film & Photography"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "HRM09104",
+    "Module leader": "DR VAUGHAN ELLIS",
+    "School": "Management",
+    "Subject area group": "Human Resource Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "MUS10104",
+    "Module leader": "DR KATRINA BURTON",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Music"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "CTR07103",
+    "Module leader": "DR KENNETH LEITCH",
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Civil and Transportation"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ADN09122",
+    "Module leader": "MRS MOIRA WEEDALL",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Nursing in Acute interventions"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MUS09131",
+    "Module leader": "MR NICHOLAS ASHTON",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Music"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ADN09117",
+    "Module leader": "MRS MOIRA WEEDALL",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Nursing in Acute interventions"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "IMD09137",
+    "Module leader": "MR IAN SMITH",
+    "School": "Computing",
+    "Subject area group": "Digital Media and Interactive Design"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ADN09116",
+    "Module leader": "A Petherick",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Nursing in Acute interventions"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LDN09108",
+    "Module leader": "MRS JANET SMITH",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Mental Health and Learning Disability"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "MUS10100",
+    "Module leader": "MR MICHAEL HARRIS",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Music"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "SOE11770",
+    "Module leader": "DR TONY DOUGLAS",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MID11102",
+    "Module leader": "MS NESSA MCHUGH",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Midwifery and Child Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MID11101",
+    "Module leader": "MS NESSA MCHUGH",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Midwifery and Child Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NMS11151",
+    "Module leader": "C Nicholson",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "NMS11701",
+    "Module leader": "DR NORRIE BROWN",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "SOC11108",
+    "Module leader": "MR PRITAM CHITA",
+    "School": "Computing",
+    "Subject area group": "Generic - School of Computing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "08",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MUS08121",
+    "Module leader": "DR PAUL FERGUSON",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Music"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "EDU11101",
+    "Module leader": "MS ANNE TIERNEY",
+    "School": "Academic Practice",
+    "Subject area group": "Academic Development"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOE11121",
+    "Module leader": "DR PIOTR JAWORSKI",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOE11131",
+    "Module leader": "DR MOIRA HUGHES",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "HRM11107",
+    "Module leader": "MR ALLAN RAMDHONY",
+    "School": "Management",
+    "Subject area group": "Human Resource Management"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "EDU11203",
+    "Module leader": "DR KAREN AITCHISON",
+    "School": "Academic Practice",
+    "Subject area group": "Academic Development"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOE11116",
+    "Module leader": "PROF GEORGE MALCOTSIS",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "NMS11130",
+    "Module leader": "MS KAREN CAMPBELL",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Enduring Conditions and Community Care"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "08",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LDN08111",
+    "Module leader": "MR COLIN MACPHERSON",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Mental Health and Learning Disability"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "NMS09155",
+    "Module leader": "MRS SUZANNE NIMMO",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "SES10113",
+    "Module leader": "DR SUSAN GRAY",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Sport Science & Health"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "DES11106",
+    "Module leader": "MR ANDREW O'DOWD",
+    "School": "Arts & Creative Industries",
+    "Subject area group": "Art, Design & Communication"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "NMS11171",
+    "Module leader": "MS KAREN CAMPBELL",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOE11126",
+    "Module leader": "DR MOIRA HUGHES",
+    "School": "Management",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "NMS09136",
+    "Module leader": "MS RUTH PATERSON",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Centre for Health and Wellbeing"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "VET10101",
+    "Module leader": "MS BARBARA WOOD",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Animal and Plant Science"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NMS10610",
+    "Module leader": "MISS CHRISTINE POLLOCK",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "VET09100",
+    "Module leader": "MISS CLARE BRYANT",
+    "School": "Life Sport & Social Sciences",
+    "Subject area group": "Animal and Plant Science"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NMS11731",
+    "Module leader": "DR LOUISE HOYLE",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Generic - School of N,M&SC"
+  },
+  {
+    "Module title": "Error with Module System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.GetOccurrenceStudentActivities(StringBuilder plh, String strModuleID, String strOccID, String PSLCode, String AYRCode)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.CreateAccordionContent(OccurranceDetails cls, String strModuleID)\r\n   at ModuleCatalogue.Napier.MC.Occurrences.Occurrences.SelectModuleOccurrences(String strModuleID, Accordion ac)\r\n   at ModuleCatalogue.WebForm2.setupdetails(String ModuleID, String SearchText)",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "NMS11125",
+    "Module leader": "MS LINDA VEITCH",
+    "School": "Nursing Midwifery & Social Care",
+    "Subject area group": "Nursing in Acute interventions"
+  }
+]
