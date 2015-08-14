@@ -26,8 +26,7 @@ app.getAlphabetLinks = function(promise) {
 };
 
 app.getModuleLinks   = function(links, promise) {
-	var moduleLinks = [],
-			errors = [];
+	var moduleLinks = [], errors = [];
 
 	var q = app.async.queue(function(url, next) {
 		app.request(url, function(err, res, html) {
@@ -61,9 +60,7 @@ app.getModuleLinks   = function(links, promise) {
 };
 
 app.getModuleData = function(moduleLinks) {
-	var modules = [],
-			failed  = [],
-			errors  = [];
+	var modules = [], failed = [], errors = [];
 
 	var q = app.async.queue(function(url, next) {
 		app.request(url, function(err, res, html) {
