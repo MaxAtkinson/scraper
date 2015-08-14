@@ -79,7 +79,7 @@ app.getModuleData = function(moduleLinks) {
           module[key] = val;
         });
 
-        if (module['Module title'].indexOf("System.NullReferenceException") != -1) {
+        if (module['Module title'].indexOf("Exception") != -1) {
           failed.push(module);
         } else {
           modules.push(module);
@@ -98,19 +98,22 @@ app.getModuleData = function(moduleLinks) {
   q.drain = function() {
     console.log(modules.length + " modules");
     console.log(failed.length  + " failed");
+    console.log("Writing to file ...")
     app.writeToFile(modules.sort(app.sortModules), failed.sort(app.sortModules));
   };
 };
 
 app.writeToFile = function(modules, failed) {
-  app.fs.writeFile('data.json', JSON.stringify(modules, null, 2), function (err) {
+  var successful = 'data,json';
+  app.fs.writeFile(successful, JSON.stringify(modules, null, 2), function (err) {
     if (err) throw err;
-    console.log('Modules saved!');
+    console.log('Modules saved to ' + successful);
   });
 
-  app.fs.writeFile('failed.json', JSON.stringify(failed, null, 2), function (err) {
+  var unsuccessful = 'failed.json';
+  app.fs.writeFile(unsuccessful, JSON.stringify(failed, null, 2), function (err) {
     if (err) throw err;
-    console.log('Failed saved!');
+    console.log('Failed saved to ' + unsuccessful);
   });
 };
 
