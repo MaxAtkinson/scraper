@@ -7,12 +7,12 @@ var app = {
 };
 
 app.getAlphabetLinks = function(promise) {
-	var links = [app.url],
-			link;
+	var links = [app.url];
 
 	app.request(app.url, function(err, res, html) {
 		if (!err && res.statusCode == 200) {
 			var $ = app.cheerio.load(html);
+			var link;
 			$('.searchAlphabet').first().find('a').each(function(index, $element) {
 				link = app.url + $($element).attr('href');
 				links.push(link);
@@ -27,12 +27,12 @@ app.getAlphabetLinks = function(promise) {
 
 app.getModuleLinks   = function(links, promise) {
 	var moduleLinks = [],
-			link,
 			errors = [];
 
 	var q = app.async.queue(function(url, next) {
 		app.request(url, function(err, res, html) {
 			if (!err && res.statusCode == 200) {
+				var link;
 				var $ = app.cheerio.load(html);
 				$('.courseListing ul li a').each(function(index, $element) {
 					link = app.url + $($element).attr('href');
