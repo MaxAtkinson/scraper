@@ -13,6 +13,9 @@ Functions:
 
 - `app.getModuleData(moduleLinks)`
 
+- `app.sortModules(a,b)` - A simple comparator function for sorting modules alphabetically.
+
 - `app.writeToFile()`
 
 - `app.run()`
+
