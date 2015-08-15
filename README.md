@@ -5,12 +5,14 @@ Used to scrape module data from Napier's module catalogue and store it in the `d
 
 Functions:
 
-`app.getAlphabetLinks(promise)` - Scrapes the alphabet bar at the top of the module catalogue and constructs URLs for scraping modules under each letter from the `href` attribute of each letter's element. Alphabet links are then stored in a JavaScript array before being passed to `getModuleLinks(alphabetLinks, promise)` when the promise callback is invoked.
+- `app.getAlphabetLinks(promise)` - Scrapes the alphabet bar at the top of the module catalogue and constructs URLs for scraping modules under each letter from the `href` attribute of each letter's element. Alphabet links are then stored in a JavaScript array before being passed to `getModuleLinks(alphabetLinks, promise)` when the promise callback is invoked.
 
-`app.getModuleLinks(alphabetLinks, promise)` - Iterates over the alphabet links array to scrape each module's URL. Module links are similarly stored in a JavaScript array and passed to the next scraping stage, `getModuleData(moduleLinks)` asynchronously via the promise callback.
+- `app.getModuleLinks(alphabetLinks, promise)` - Iterates over the alphabet links array to scrape each module's URL. Module links are similarly stored in a JavaScript array and passed to the next scraping stage, `getModuleData(moduleLinks)` asynchronously via the promise callback.
 
-`app.getModuleData(moduleLinks)`
+**Note that the promise callback will be replaced using `async.queue.drain` in request queues (namely in getModuleLinks)**
 
-`app.writeToFile()`
+- `app.getModuleData(moduleLinks)`
 
-`app.run()`
+- `app.writeToFile()`
+
+- `app.run()`
