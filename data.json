@@ -434,7 +434,7 @@
     "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "SET11116",
+    "Module code": "SET11516",
     "Module leader": "Sally Smith",
     "School": "Software Engineering",
     "Subject area group": "Software Engineering"
@@ -444,7 +444,7 @@
     "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "SET11516",
+    "Module code": "SET11116",
     "Module leader": "Sally Smith",
     "School": "Software Engineering",
     "Subject area group": "Software Engineering"
@@ -1984,7 +1984,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "NMS11756",
+    "Module code": "NMS11156",
     "Module leader": "Jacqueline Johnston",
     "School": "Centre for Health and Wellbeing",
     "Subject area group": "Centre for Health and Wellbeing"
@@ -1994,7 +1994,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "NMS11156",
+    "Module code": "NMS11756",
     "Module leader": "Jacqueline Johnston",
     "School": "Centre for Health and Wellbeing",
     "Subject area group": "Centre for Health and Wellbeing"
@@ -2111,20 +2111,20 @@
   },
   {
     "Module title": "Clinical Research in Practice",
-    "SCQF level": "09",
+    "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "NMS09703",
+    "Module code": "NMS10102",
     "Module leader": "Gordon Hill",
     "School": "Centre for Health and Wellbeing",
     "Subject area group": "Centre for Health and Wellbeing"
   },
   {
     "Module title": "Clinical Research in Practice",
-    "SCQF level": "10",
+    "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "NMS10102",
+    "Module code": "NMS09703",
     "Module leader": "Gordon Hill",
     "School": "Centre for Health and Wellbeing",
     "Subject area group": "Centre for Health and Wellbeing"
@@ -2571,21 +2571,21 @@
   },
   {
     "Module title": "Consumer Behaviour",
-    "SCQF level": "07",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "MKT07102",
-    "Module leader": "Peter Mudie",
-    "School": "Marketing",
-    "Subject area group": "Marketing"
-  },
-  {
-    "Module title": "Consumer Behaviour",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "MKT11102",
     "Module leader": "DR LIZ LOGIE-MACIVER",
+    "School": "Marketing",
+    "Subject area group": "Marketing"
+  },
+  {
+    "Module title": "Consumer Behaviour",
+    "SCQF level": "07",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MKT07102",
+    "Module leader": "Peter Mudie",
     "School": "Marketing",
     "Subject area group": "Marketing"
   },
@@ -3321,16 +3321,6 @@
   },
   {
     "Module title": "Database Systems",
-    "SCQF level": "08",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "INF08104",
-    "Module leader": "Brian Davison",
-    "School": "Information Systems",
-    "Subject area group": "Information Systems"
-  },
-  {
-    "Module title": "Database Systems",
     "SCQF level": "11",
     "SCQF credit value": "10.00",
     "ECTS credit value": "5",
@@ -3338,6 +3328,16 @@
     "Module leader": "Brian Davison",
     "School": "Software Engineering",
     "Subject area group": "Software Engineering"
+  },
+  {
+    "Module title": "Database Systems",
+    "SCQF level": "08",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "INF08104",
+    "Module leader": "Brian Davison",
+    "School": "Information Systems",
+    "Subject area group": "Information Systems"
   },
   {
     "Module title": "Database Technology",
@@ -3704,20 +3704,20 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CTR11520",
-    "Module leader": "",
+    "Module code": "CTR11120",
+    "Module leader": "Andrew MacIver",
     "School": "Civil and Transportation",
-    "Subject area group": ""
+    "Subject area group": "Civil and Transportation"
   },
   {
     "Module title": "Development Planning and Transport Assessment",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CTR11120",
-    "Module leader": "Andrew MacIver",
+    "Module code": "CTR11520",
+    "Module leader": "",
     "School": "Civil and Transportation",
-    "Subject area group": "Civil and Transportation"
+    "Subject area group": ""
   },
   {
     "Module title": "Diagnosis and Management of Epilepsy",
@@ -3741,16 +3741,6 @@
   },
   {
     "Module title": "Digital Business Environments",
-    "SCQF level": "09",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "INF09113",
-    "Module leader": "Colin Smith",
-    "School": "Information Systems",
-    "Subject area group": "Information Systems"
-  },
-  {
-    "Module title": "Digital Business Environments",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
@@ -3770,6 +3760,16 @@
     "Subject area group": "Art, Design & Communication"
   },
   {
+    "Module title": "Digital Business Environments",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "INF09113",
+    "Module leader": "Colin Smith",
+    "School": "Information Systems",
+    "Subject area group": "Information Systems"
+  },
+  {
     "Module title": "Digital Creative",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
@@ -3784,7 +3784,7 @@
     "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CSN08705",
+    "Module code": "CSN08111",
     "Module leader": "Gordon Russell",
     "School": "Computer Systems",
     "Subject area group": "Computer Systems"
@@ -3794,7 +3794,7 @@
     "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CSN08111",
+    "Module code": "CSN08705",
     "Module leader": "Gordon Russell",
     "School": "Computer Systems",
     "Subject area group": "Computer Systems"
@@ -3881,21 +3881,21 @@
   },
   {
     "Module title": "Direct & Digital Marketing",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "MKT11105",
-    "Module leader": "MISS AGATA KROWINSKA",
-    "School": "Marketing",
-    "Subject area group": "Marketing"
-  },
-  {
-    "Module title": "Direct & Digital Marketing",
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "MKT09106",
     "Module leader": "David Stevenson",
+    "School": "Marketing",
+    "Subject area group": "Marketing"
+  },
+  {
+    "Module title": "Direct & Digital Marketing",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MKT11105",
+    "Module leader": "MISS AGATA KROWINSKA",
     "School": "Marketing",
     "Subject area group": "Marketing"
   },
@@ -3921,16 +3921,6 @@
   },
   {
     "Module title": "Dissertation",
-    "SCQF level": "11",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "FIN11130",
-    "Module leader": "Moira Hughes",
-    "School": "Financial Services",
-    "Subject area group": "Financial Services"
-  },
-  {
-    "Module title": "Dissertation",
     "SCQF level": "10",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
@@ -3941,33 +3931,23 @@
   },
   {
     "Module title": "Dissertation",
-    "SCQF level": "10",
+    "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "TSM10133",
-    "Module leader": "Kay Penny",
-    "School": "Tourism",
-    "Subject area group": "Tourism"
+    "Module code": "MKT11130",
+    "Module leader": "Moira Hughes",
+    "School": "Marketing",
+    "Subject area group": "Marketing"
   },
   {
     "Module title": "Dissertation",
-    "SCQF level": "10",
+    "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "MUS10102",
-    "Module leader": "Katrina Burton",
-    "School": "Music",
-    "Subject area group": "Music"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "10",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "ACC10133",
-    "Module leader": "Kay Penny",
-    "School": "Accounting",
-    "Subject area group": "Accounting"
+    "Module code": "SOE11130",
+    "Module leader": "Moira Hughes",
+    "School": "Strategy Operations and Economics",
+    "Subject area group": "Strategy Operations and Economics"
   },
   {
     "Module title": "Dissertation",
@@ -3981,33 +3961,13 @@
   },
   {
     "Module title": "Dissertation",
-    "SCQF level": "10",
+    "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "MKT10133",
-    "Module leader": "Kay Penny",
-    "School": "Marketing",
-    "Subject area group": "Marketing"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "10",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "HRM10133",
-    "Module leader": "Kay Penny",
-    "School": "Human Resource Management",
-    "Subject area group": "Human Resource Management"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "10",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "FIN10133",
-    "Module leader": "Kay Penny",
-    "School": "Financial Services",
-    "Subject area group": "Financial Services"
+    "Module code": "SSC11112",
+    "Module leader": "Kathy Charles",
+    "School": "Social Science",
+    "Subject area group": "Social Science"
   },
   {
     "Module title": "Dissertation",
@@ -4024,30 +3984,30 @@
     "SCQF level": "10",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "ENT10133",
+    "Module code": "FIN10133",
     "Module leader": "Kay Penny",
-    "School": "Entrepreneurship",
-    "Subject area group": "Entrepreneurship"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "11",
-    "SCQF credit value": "60.00",
-    "ECTS credit value": "30",
-    "Module code": "BSV11120",
-    "Module leader": "Ian Deakin",
-    "School": "Building and Surveying",
-    "Subject area group": "Building and Surveying"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "11",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "FIN11930",
-    "Module leader": "David White",
     "School": "Financial Services",
     "Subject area group": "Financial Services"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "SOE10133",
+    "Module leader": "Kay Penny",
+    "School": "Strategy Operations and Economics",
+    "Subject area group": "Strategy Operations and Economics"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "TSM10133",
+    "Module leader": "Kay Penny",
+    "School": "Tourism",
+    "Subject area group": "Tourism"
   },
   {
     "Module title": "Dissertation",
@@ -4074,8 +4034,18 @@
     "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "MKT11130",
+    "Module code": "TSM11130",
     "Module leader": "Moira Hughes",
+    "School": "Tourism",
+    "Subject area group": "Tourism"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "MKT10133",
+    "Module leader": "Kay Penny",
     "School": "Marketing",
     "Subject area group": "Marketing"
   },
@@ -4084,30 +4054,50 @@
     "SCQF level": "10",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "SOE10133",
-    "Module leader": "Kay Penny",
-    "School": "Strategy Operations and Economics",
-    "Subject area group": "Strategy Operations and Economics"
+    "Module code": "MUS10102",
+    "Module leader": "Katrina Burton",
+    "School": "Music",
+    "Subject area group": "Music"
   },
   {
     "Module title": "Dissertation",
-    "SCQF level": "11",
-    "SCQF credit value": "60.00",
-    "ECTS credit value": "30",
-    "Module code": "JAC11106",
-    "Module leader": "Alistair Mccleery",
-    "School": "Journalism & Publishing",
-    "Subject area group": "Journalism & Publishing"
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ACC10133",
+    "Module leader": "Kay Penny",
+    "School": "Accounting",
+    "Subject area group": "Accounting"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "HRM10133",
+    "Module leader": "Kay Penny",
+    "School": "Human Resource Management",
+    "Subject area group": "Human Resource Management"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "10",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ENT10133",
+    "Module leader": "Kay Penny",
+    "School": "Entrepreneurship",
+    "Subject area group": "Entrepreneurship"
   },
   {
     "Module title": "Dissertation",
     "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "ACC11130",
-    "Module leader": "Moira Hughes",
-    "School": "Accounting",
-    "Subject area group": "Accounting"
+    "Module code": "FIN11930",
+    "Module leader": "David White",
+    "School": "Financial Services",
+    "Subject area group": "Financial Services"
   },
   {
     "Module title": "Dissertation",
@@ -4124,10 +4114,50 @@
     "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "SOE11130",
+    "Module code": "HRM11130",
     "Module leader": "Moira Hughes",
-    "School": "Strategy Operations and Economics",
-    "Subject area group": "Strategy Operations and Economics"
+    "School": "Human Resource Management",
+    "Subject area group": "Human Resource Management"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "BSV11120",
+    "Module leader": "Ian Deakin",
+    "School": "Building and Surveying",
+    "Subject area group": "Building and Surveying"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "JAC11106",
+    "Module leader": "Alistair Mccleery",
+    "School": "Journalism & Publishing",
+    "Subject area group": "Journalism & Publishing"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "FIN11130",
+    "Module leader": "Moira Hughes",
+    "School": "Financial Services",
+    "Subject area group": "Financial Services"
+  },
+  {
+    "Module title": "Dissertation",
+    "SCQF level": "11",
+    "SCQF credit value": "40.00",
+    "ECTS credit value": "20",
+    "Module code": "ACC11130",
+    "Module leader": "Moira Hughes",
+    "School": "Accounting",
+    "Subject area group": "Accounting"
   },
   {
     "Module title": "Dissertation",
@@ -4140,34 +4170,14 @@
     "Subject area group": "Nursing in Acute interventions"
   },
   {
-    "Module title": "Dissertation",
+    "Module title": "Dissertation (Extended Literature Review)",
     "SCQF level": "11",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "HRM11130",
-    "Module leader": "Moira Hughes",
-    "School": "Human Resource Management",
-    "Subject area group": "Human Resource Management"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "11",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "TSM11130",
-    "Module leader": "Moira Hughes",
-    "School": "Tourism",
-    "Subject area group": "Tourism"
-  },
-  {
-    "Module title": "Dissertation",
-    "SCQF level": "11",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "SSC11112",
-    "Module leader": "Kathy Charles",
-    "School": "Social Science",
-    "Subject area group": "Social Science"
+    "Module code": "NMS11120",
+    "Module leader": "Linda Veitch",
+    "School": "Nursing in Acute interventions",
+    "Subject area group": "Nursing in Acute interventions"
   },
   {
     "Module title": "Dissertation (Extended Literature Review)",
@@ -4178,16 +4188,6 @@
     "Module leader": "Linda Veitch",
     "School": "Generic - School of Nursing Midwifery & Social Care",
     "Subject area group": "Generic - School of N,M&SC"
-  },
-  {
-    "Module title": "Dissertation (Extended Literature Review)",
-    "SCQF level": "11",
-    "SCQF credit value": "40.00",
-    "ECTS credit value": "20",
-    "Module code": "NMS11120",
-    "Module leader": "Linda Veitch",
-    "School": "Nursing in Acute interventions",
-    "Subject area group": "Nursing in Acute interventions"
   },
   {
     "Module title": "Dissertation (Transport)",
@@ -4574,7 +4574,7 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ELE09802",
+    "Module code": "ELE09102",
     "Module leader": "James Hoy",
     "School": "Electronics Electrical and Mathematics",
     "Subject area group": "Electronics, Electrical and Mathematics"
@@ -4584,7 +4584,7 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ELE09102",
+    "Module code": "ELE09802",
     "Module leader": "James Hoy",
     "School": "Electronics Electrical and Mathematics",
     "Subject area group": "Electronics, Electrical and Mathematics"
@@ -4681,21 +4681,21 @@
   },
   {
     "Module title": "Employment Law",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "LAW11101",
-    "Module leader": "Zhongdong Niu",
-    "School": "Law",
-    "Subject area group": "Law"
-  },
-  {
-    "Module title": "Employment Law",
     "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "LAW08103",
     "Module leader": "Leslie Milliken",
+    "School": "Law",
+    "Subject area group": "Law"
+  },
+  {
+    "Module title": "Employment Law",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LAW11101",
+    "Module leader": "Zhongdong Niu",
     "School": "Law",
     "Subject area group": "Law"
   },
@@ -4764,20 +4764,20 @@
     "SCQF level": "07",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC07107",
-    "Module leader": "Colin Bowman",
-    "School": "Mechanical Materials and Manufacturing Management",
-    "Subject area group": "Mechanical, Materials and Manufacturing Management"
+    "Module code": "CTR07104",
+    "Module leader": "Mark Taylor",
+    "School": "Civil and Transportation",
+    "Subject area group": "Civil and Transportation"
   },
   {
     "Module title": "Engineering Communication",
     "SCQF level": "07",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CTR07104",
-    "Module leader": "Mark Taylor",
-    "School": "Civil and Transportation",
-    "Subject area group": "Civil and Transportation"
+    "Module code": "MEC07107",
+    "Module leader": "Colin Bowman",
+    "School": "Mechanical Materials and Manufacturing Management",
+    "Subject area group": "Mechanical, Materials and Manufacturing Management"
   },
   {
     "Module title": "Engineering Design",
@@ -5214,7 +5214,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "TSM11617",
+    "Module code": "TSM11117",
     "Module leader": "Jane Ali-Knight",
     "School": "Tourism",
     "Subject area group": "Tourism"
@@ -5224,7 +5224,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "TSM11117",
+    "Module code": "TSM11617",
     "Module leader": "Jane Ali-Knight",
     "School": "Tourism",
     "Subject area group": "Tourism"
@@ -5601,11 +5601,11 @@
   },
   {
     "Module title": "Financial Management",
-    "SCQF level": "08",
+    "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ACC08105",
-    "Module leader": "Colin Kidd",
+    "Module code": "ACC11118",
+    "Module leader": "James Bonnett",
     "School": "Accounting",
     "Subject area group": "Accounting"
   },
@@ -5621,11 +5621,11 @@
   },
   {
     "Module title": "Financial Management",
-    "SCQF level": "11",
+    "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ACC11118",
-    "Module leader": "James Bonnett",
+    "Module code": "ACC08105",
+    "Module leader": "Colin Kidd",
     "School": "Accounting",
     "Subject area group": "Accounting"
   },
@@ -5634,17 +5634,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "FIN11128",
-    "Module leader": "DR MAURICIO SILVA",
-    "School": "Financial Services",
-    "Subject area group": "Financial Services"
-  },
-  {
-    "Module title": "Financial Markets, Institutions and Banking",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "FIN11428",
+    "Module code": "FIN11928",
     "Module leader": "DR MAURICIO SILVA",
     "School": "Financial Services",
     "Subject area group": "Financial Services"
@@ -5664,7 +5654,17 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "FIN11928",
+    "Module code": "FIN11428",
+    "Module leader": "DR MAURICIO SILVA",
+    "School": "Financial Services",
+    "Subject area group": "Financial Services"
+  },
+  {
+    "Module title": "Financial Markets, Institutions and Banking",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "FIN11128",
     "Module leader": "DR MAURICIO SILVA",
     "School": "Financial Services",
     "Subject area group": "Financial Services"
@@ -5864,7 +5864,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SET11115",
+    "Module code": "SET11515",
     "Module leader": "Kevin Chalmers",
     "School": "Software Engineering",
     "Subject area group": "Software Engineering"
@@ -5874,7 +5874,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SET11515",
+    "Module code": "SET11115",
     "Module leader": "Kevin Chalmers",
     "School": "Software Engineering",
     "Subject area group": "Software Engineering"
@@ -5884,7 +5884,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CTR11101",
+    "Module code": "CTR11501",
     "Module leader": "Daniel Barreto Gonzalez",
     "School": "Civil and Transportation",
     "Subject area group": "Civil and Transportation"
@@ -5894,7 +5894,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "CTR11501",
+    "Module code": "CTR11101",
     "Module leader": "Daniel Barreto Gonzalez",
     "School": "Civil and Transportation",
     "Subject area group": "Civil and Transportation"
@@ -6274,8 +6274,8 @@
     "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC10811",
-    "Module leader": "Jawdat Tannous",
+    "Module code": "MEC10111",
+    "Module leader": "John Shackleton",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
   },
@@ -6284,8 +6284,8 @@
     "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC10111",
-    "Module leader": "John Shackleton",
+    "Module code": "MEC10811",
+    "Module leader": "Jawdat Tannous",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
   },
@@ -6564,8 +6564,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOE11929",
-    "Module leader": "Piotr Jaworski",
+    "Module code": "SOE11129",
+    "Module leader": "Alina Gavris",
     "School": "Strategy Operations and Economics",
     "Subject area group": "Strategy Operations and Economics"
   },
@@ -6574,8 +6574,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOE11129",
-    "Module leader": "Alina Gavris",
+    "Module code": "SOE11929",
+    "Module leader": "Piotr Jaworski",
     "School": "Strategy Operations and Economics",
     "Subject area group": "Strategy Operations and Economics"
   },
@@ -6604,8 +6604,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "FIN11508",
-    "Module leader": "Malcolm Pettigrew",
+    "Module code": "FIN11108",
+    "Module leader": "Leslie Short",
     "School": "Financial Services",
     "Subject area group": "Financial Services"
   },
@@ -6614,8 +6614,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "FIN11108",
-    "Module leader": "Leslie Short",
+    "Module code": "FIN11508",
+    "Module leader": "Malcolm Pettigrew",
     "School": "Financial Services",
     "Subject area group": "Financial Services"
   },
@@ -6644,8 +6644,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MKT11504",
-    "Module leader": "Jennifer Reid",
+    "Module code": "MKT11104",
+    "Module leader": "John Thomson",
     "School": "Marketing",
     "Subject area group": "Marketing"
   },
@@ -6654,8 +6654,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MKT11104",
-    "Module leader": "John Thomson",
+    "Module code": "MKT11504",
+    "Module leader": "Jennifer Reid",
     "School": "Marketing",
     "Subject area group": "Marketing"
   },
@@ -6731,21 +6731,21 @@
   },
   {
     "Module title": "Group Project",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "SOC11103",
-    "Module leader": "Ahmed Al-Dubai",
-    "School": "Generic - School of Computing",
-    "Subject area group": "Generic - School of Computing"
-  },
-  {
-    "Module title": "Group Project",
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "SOC09109",
     "Module leader": "Brian Davison",
+    "School": "Generic - School of Computing",
+    "Subject area group": "Generic - School of Computing"
+  },
+  {
+    "Module title": "Group Project",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SOC11103",
+    "Module leader": "Ahmed Al-Dubai",
     "School": "Generic - School of Computing",
     "Subject area group": "Generic - School of Computing"
   },
@@ -6924,20 +6924,20 @@
     "SCQF level": "10",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "SSC10106",
-    "Module leader": "Geraldine Jones",
-    "School": "Social Science",
-    "Subject area group": "Social Science"
+    "Module code": "ELE10808",
+    "Module leader": "John Askey",
+    "School": "Electronics Electrical and Mathematics",
+    "Subject area group": "Electronics, Electrical and Mathematics"
   },
   {
     "Module title": "Honours Project",
     "SCQF level": "10",
     "SCQF credit value": "40.00",
     "ECTS credit value": "20",
-    "Module code": "ELE10808",
-    "Module leader": "John Askey",
-    "School": "Electronics Electrical and Mathematics",
-    "Subject area group": "Electronics, Electrical and Mathematics"
+    "Module code": "SSC10106",
+    "Module leader": "Geraldine Jones",
+    "School": "Social Science",
+    "Subject area group": "Social Science"
   },
   {
     "Module title": "Honours Project (20 credits)",
@@ -7304,20 +7304,20 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ELE09108",
+    "Module code": "ENG09100",
     "Module leader": "John Askey",
-    "School": "Engineering and the Built Environment",
-    "Subject area group": "Electronics, Electrical and Mathematics"
+    "School": "Mechanical Materials and Manufacturing Management",
+    "Subject area group": "Mechanical, Materials and Manufacturing Management"
   },
   {
     "Module title": "Individual Project",
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ENG09100",
+    "Module code": "ELE09108",
     "Module leader": "John Askey",
-    "School": "Mechanical Materials and Manufacturing Management",
-    "Subject area group": "Mechanical, Materials and Manufacturing Management"
+    "School": "Engineering and the Built Environment",
+    "Subject area group": "Electronics, Electrical and Mathematics"
   },
   {
     "Module title": "Industrial Automation",
@@ -7674,7 +7674,7 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SES09108",
+    "Module code": "SES09908",
     "Module leader": "Russell Martindale",
     "School": "Sport Science & Health",
     "Subject area group": "Sport Science & Health"
@@ -7684,7 +7684,7 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SES09908",
+    "Module code": "SES09108",
     "Module leader": "Russell Martindale",
     "School": "Sport Science & Health",
     "Subject area group": "Sport Science & Health"
@@ -7774,16 +7774,6 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "TSM11113",
-    "Module leader": "Joan McLatchie",
-    "School": "Tourism",
-    "Subject area group": "Tourism"
-  },
-  {
-    "Module title": "International Business Event Management",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
     "Module code": "TSM11913",
     "Module leader": "Paul Barron",
     "School": "Tourism",
@@ -7795,6 +7785,16 @@
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "TSM11515",
+    "Module leader": "Joan McLatchie",
+    "School": "Tourism",
+    "Subject area group": "Tourism"
+  },
+  {
+    "Module title": "International Business Event Management",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "TSM11113",
     "Module leader": "Joan McLatchie",
     "School": "Tourism",
     "Subject area group": "Tourism"
@@ -8824,7 +8824,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "HRM11919",
+    "Module code": "HRM11119",
     "Module leader": "David McGuire",
     "School": "Human Resource Management",
     "Subject area group": "Human Resource Management"
@@ -8834,7 +8834,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "HRM11119",
+    "Module code": "HRM11919",
     "Module leader": "David McGuire",
     "School": "Human Resource Management",
     "Subject area group": "Human Resource Management"
@@ -9154,20 +9154,20 @@
     "SCQF level": "11",
     "SCQF credit value": "60.00",
     "ECTS credit value": "30",
-    "Module code": "CLP11110",
-    "Module leader": "Samantha Kelly",
-    "School": "Journalism & Publishing",
-    "Subject area group": "Journalism & Publishing"
+    "Module code": "SCA11106",
+    "Module leader": "James Mavor",
+    "School": "Film & Photography",
+    "Subject area group": "Film & Photography"
   },
   {
     "Module title": "Major Project",
     "SCQF level": "11",
     "SCQF credit value": "60.00",
     "ECTS credit value": "30",
-    "Module code": "SCA11106",
-    "Module leader": "James Mavor",
-    "School": "Film & Photography",
-    "Subject area group": "Film & Photography"
+    "Module code": "CLP11110",
+    "Module leader": "Samantha Kelly",
+    "School": "Journalism & Publishing",
+    "Subject area group": "Journalism & Publishing"
   },
   {
     "Module title": "Major Project",
@@ -9434,7 +9434,7 @@
     "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC10116",
+    "Module code": "MEC10816",
     "Module leader": "Jawdat Tannous",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
@@ -9444,7 +9444,7 @@
     "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC10816",
+    "Module code": "MEC10116",
     "Module leader": "Jawdat Tannous",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
@@ -9521,21 +9521,21 @@
   },
   {
     "Module title": "Marketing Ethics",
-    "SCQF level": "10",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "MKT10102",
-    "Module leader": "Elaine Thomson",
-    "School": "Marketing",
-    "Subject area group": "Marketing"
-  },
-  {
-    "Module title": "Marketing Ethics",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "MKT11107",
     "Module leader": "MR DAVE MARSDEN",
+    "School": "Marketing",
+    "Subject area group": "Marketing"
+  },
+  {
+    "Module title": "Marketing Ethics",
+    "SCQF level": "10",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MKT10102",
+    "Module leader": "Elaine Thomson",
     "School": "Marketing",
     "Subject area group": "Marketing"
   },
@@ -9634,8 +9634,8 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC09104",
-    "Module leader": "Michael Barker",
+    "Module code": "MEC09804",
+    "Module leader": "Neil Shearer",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
   },
@@ -9644,8 +9644,8 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC09804",
-    "Module leader": "Neil Shearer",
+    "Module code": "MEC09104",
+    "Module leader": "Michael Barker",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
   },
@@ -9821,20 +9821,20 @@
   },
   {
     "Module title": "Media Law for Journalists",
-    "SCQF level": "11",
-    "SCQF credit value": "10.00",
-    "ECTS credit value": "5",
-    "Module code": "JAC11132",
+    "SCQF level": "08",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "JAC08107",
     "Module leader": "Kathryn Smith",
     "School": "Journalism & Publishing",
     "Subject area group": "Journalism & Publishing"
   },
   {
     "Module title": "Media Law for Journalists",
-    "SCQF level": "08",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "JAC08107",
+    "SCQF level": "11",
+    "SCQF credit value": "10.00",
+    "ECTS credit value": "5",
+    "Module code": "JAC11132",
     "Module leader": "Kathryn Smith",
     "School": "Journalism & Publishing",
     "Subject area group": "Journalism & Publishing"
@@ -9924,7 +9924,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MEC11507",
+    "Module code": "ENG11500",
     "Module leader": "Colin Boswell",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
@@ -9934,7 +9934,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ENG11500",
+    "Module code": "MEC11507",
     "Module leader": "Colin Boswell",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
@@ -11041,20 +11041,20 @@
   },
   {
     "Module title": "Overseas Project",
-    "SCQF level": "08",
+    "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOC08101",
+    "Module code": "SOC09110",
     "Module leader": "Alison Varey",
     "School": "Generic - School of Computing",
     "Subject area group": "Generic - School of Computing"
   },
   {
     "Module title": "Overseas Project",
-    "SCQF level": "09",
+    "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOC09110",
+    "Module code": "SOC08101",
     "Module leader": "Alison Varey",
     "School": "Generic - School of Computing",
     "Subject area group": "Generic - School of Computing"
@@ -11081,10 +11081,10 @@
   },
   {
     "Module title": "Overseas Study",
-    "SCQF level": "10",
+    "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOC10203",
+    "Module code": "SOC08207",
     "Module leader": "Caroline Turnbull",
     "School": "Generic - School of Computing",
     "Subject area group": "Generic - School of Computing"
@@ -11101,10 +11101,10 @@
   },
   {
     "Module title": "Overseas Study",
-    "SCQF level": "08",
+    "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOC08207",
+    "Module code": "SOC10203",
     "Module leader": "Caroline Turnbull",
     "School": "Generic - School of Computing",
     "Subject area group": "Generic - School of Computing"
@@ -11134,8 +11134,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "HRM11665",
-    "Module leader": "Lesley McLean",
+    "Module code": "HRM11115",
+    "Module leader": "Laura Strachan",
     "School": "Human Resource Management",
     "Subject area group": "Human Resource Management"
   },
@@ -11144,8 +11144,8 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "HRM11115",
-    "Module leader": "Laura Strachan",
+    "Module code": "HRM11665",
+    "Module leader": "Lesley McLean",
     "School": "Human Resource Management",
     "Subject area group": "Human Resource Management"
   },
@@ -11591,16 +11591,6 @@
   },
   {
     "Module title": "Physics-Based Animation",
-    "SCQF level": "09",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "SET09119",
-    "Module leader": "Benjamin Kenwright",
-    "School": "Software Engineering",
-    "Subject area group": "Software Engineering"
-  },
-  {
-    "Module title": "Physics-Based Animation",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
@@ -11608,6 +11598,16 @@
     "Module leader": "Benjamin Kenwright",
     "School": "Computer Systems",
     "Subject area group": "Computer Systems"
+  },
+  {
+    "Module title": "Physics-Based Animation",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SET09119",
+    "Module leader": "Benjamin Kenwright",
+    "School": "Software Engineering",
+    "Subject area group": "Software Engineering"
   },
   {
     "Module title": "Physiological Factors Affecting Sporting Performance",
@@ -12554,16 +12554,6 @@
     "SCQF level": "09",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "LAW09128",
-    "Module leader": "Richard Whitecross",
-    "School": "Law",
-    "Subject area group": "Law"
-  },
-  {
-    "Module title": "Professional Practice (Work Project)",
-    "SCQF level": "09",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
     "Module code": "ACC09128",
     "Module leader": "Richard Whitecross",
     "School": "Accounting",
@@ -12578,6 +12568,16 @@
     "Module leader": "Richard Whitecross",
     "School": "Financial Services",
     "Subject area group": "Financial Services"
+  },
+  {
+    "Module title": "Professional Practice (Work Project)",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "LAW09128",
+    "Module leader": "Richard Whitecross",
+    "School": "Law",
+    "Subject area group": "Law"
   },
   {
     "Module title": "Professional Practice 1",
@@ -12881,26 +12881,6 @@
   },
   {
     "Module title": "Project Management",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "BSV11101",
-    "Module leader": "Andrew Brown",
-    "School": "Building and Surveying",
-    "Subject area group": "Building and Surveying"
-  },
-  {
-    "Module title": "Project Management",
-    "SCQF level": "09",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "MEC09114",
-    "Module leader": "Jawdat Tannous",
-    "School": "Mechanical Materials and Manufacturing Management",
-    "Subject area group": "Mechanical, Materials and Manufacturing Management"
-  },
-  {
-    "Module title": "Project Management",
     "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
@@ -12915,6 +12895,26 @@
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "MEC09814",
+    "Module leader": "Jawdat Tannous",
+    "School": "Mechanical Materials and Manufacturing Management",
+    "Subject area group": "Mechanical, Materials and Manufacturing Management"
+  },
+  {
+    "Module title": "Project Management",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "BSV11101",
+    "Module leader": "Andrew Brown",
+    "School": "Building and Surveying",
+    "Subject area group": "Building and Surveying"
+  },
+  {
+    "Module title": "Project Management",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "MEC09114",
     "Module leader": "Jawdat Tannous",
     "School": "Mechanical Materials and Manufacturing Management",
     "Subject area group": "Mechanical, Materials and Manufacturing Management"
@@ -13301,20 +13301,20 @@
   },
   {
     "Module title": "Recording Studio Theory & Practice 1",
-    "SCQF level": "08",
+    "SCQF level": "07",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MUS08135",
+    "Module code": "MUS07115",
     "Module leader": "David Hook",
     "School": "Music",
     "Subject area group": "Music"
   },
   {
     "Module title": "Recording Studio Theory & Practice 1",
-    "SCQF level": "07",
+    "SCQF level": "08",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "MUS07115",
+    "Module code": "MUS08135",
     "Module leader": "David Hook",
     "School": "Music",
     "Subject area group": "Music"
@@ -13414,20 +13414,10 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "DES11101",
-    "Module leader": "Kirstie Jamieson",
-    "School": "Art, Design & Communication",
-    "Subject area group": "Art, Design & Communication"
-  },
-  {
-    "Module title": "Research Methods",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "NMS11702",
-    "Module leader": "Anne Rowat",
-    "School": "Mental Health and Learning Disability",
-    "Subject area group": "Mental Health and Learning Disability"
+    "Module code": "SOE11131",
+    "Module leader": "Moira Hughes",
+    "School": "Strategy Operations and Economics",
+    "Subject area group": "Strategy Operations and Economics"
   },
   {
     "Module title": "Research Methods",
@@ -13444,10 +13434,20 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "SOE11131",
-    "Module leader": "Moira Hughes",
-    "School": "Strategy Operations and Economics",
-    "Subject area group": "Strategy Operations and Economics"
+    "Module code": "NMS11702",
+    "Module leader": "Anne Rowat",
+    "School": "Mental Health and Learning Disability",
+    "Subject area group": "Mental Health and Learning Disability"
+  },
+  {
+    "Module title": "Research Methods",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "DES11101",
+    "Module leader": "Kirstie Jamieson",
+    "School": "Art, Design & Communication",
+    "Subject area group": "Art, Design & Communication"
   },
   {
     "Module title": "Research Methods (Malta)",
@@ -13631,21 +13631,21 @@
   },
   {
     "Module title": "Safeguarding within a Public Protection Agenda",
-    "SCQF level": "09",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "NMS09144",
-    "Module leader": "MS MARJORIE KEYS",
-    "School": "Midwifery and Child Health",
-    "Subject area group": "Midwifery and Child Health"
-  },
-  {
-    "Module title": "Safeguarding within a Public Protection Agenda",
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "NMS11166",
     "Module leader": "Lindsey Robb",
+    "School": "Midwifery and Child Health",
+    "Subject area group": "Midwifery and Child Health"
+  },
+  {
+    "Module title": "Safeguarding within a Public Protection Agenda",
+    "SCQF level": "09",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "NMS09144",
+    "Module leader": "MS MARJORIE KEYS",
     "School": "Midwifery and Child Health",
     "Subject area group": "Midwifery and Child Health"
   },
@@ -14211,21 +14211,21 @@
   },
   {
     "Module title": "Software Development 1",
-    "SCQF level": "11",
-    "SCQF credit value": "20.00",
-    "ECTS credit value": "10",
-    "Module code": "SET11102",
-    "Module leader": "John Owens",
-    "School": "Software Engineering",
-    "Subject area group": "Software Engineering"
-  },
-  {
-    "Module title": "Software Development 1",
     "SCQF level": "07",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
     "Module code": "SET07102",
     "Module leader": "Andrew Cumming",
+    "School": "Software Engineering",
+    "Subject area group": "Software Engineering"
+  },
+  {
+    "Module title": "Software Development 1",
+    "SCQF level": "11",
+    "SCQF credit value": "20.00",
+    "ECTS credit value": "10",
+    "Module code": "SET11102",
+    "Module leader": "John Owens",
     "School": "Software Engineering",
     "Subject area group": "Software Engineering"
   },
@@ -14711,20 +14711,20 @@
   },
   {
     "Module title": "Strategic Management Accounting",
-    "SCQF level": "10",
+    "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ACC10105",
+    "Module code": "ACC11103",
     "Module leader": "James Brown",
     "School": "Accounting",
     "Subject area group": "Accounting"
   },
   {
     "Module title": "Strategic Management Accounting",
-    "SCQF level": "11",
+    "SCQF level": "10",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "ACC11103",
+    "Module code": "ACC10105",
     "Module leader": "James Brown",
     "School": "Accounting",
     "Subject area group": "Accounting"
@@ -15414,7 +15414,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "HRM11666",
+    "Module code": "HRM11116",
     "Module leader": "Vaughan Ellis",
     "School": "Human Resource Management",
     "Subject area group": "Human Resource Management"
@@ -15424,7 +15424,7 @@
     "SCQF level": "11",
     "SCQF credit value": "20.00",
     "ECTS credit value": "10",
-    "Module code": "HRM11116",
+    "Module code": "HRM11666",
     "Module leader": "Vaughan Ellis",
     "School": "Human Resource Management",
     "Subject area group": "Human Resource Management"
@@ -16661,21 +16661,21 @@
   },
   {
     "Module title": "Work Based Learning",
-    "SCQF level": "11",
-    "SCQF credit value": "60.00",
-    "ECTS credit value": "30",
-    "Module code": "SOC11106",
-    "Module leader": "Alison Varey",
-    "School": "Generic - School of Computing",
-    "Subject area group": "Generic - School of Computing"
-  },
-  {
-    "Module title": "Work Based Learning",
     "SCQF level": "09",
     "SCQF credit value": "60.00",
     "ECTS credit value": "30",
     "Module code": "SOC09105",
     "Module leader": "Ian Smith",
+    "School": "Generic - School of Computing",
+    "Subject area group": "Generic - School of Computing"
+  },
+  {
+    "Module title": "Work Based Learning",
+    "SCQF level": "11",
+    "SCQF credit value": "60.00",
+    "ECTS credit value": "30",
+    "Module code": "SOC11106",
+    "Module leader": "Alison Varey",
     "School": "Generic - School of Computing",
     "Subject area group": "Generic - School of Computing"
   },

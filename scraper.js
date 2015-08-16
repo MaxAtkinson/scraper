@@ -39,6 +39,7 @@ app.getModuleLinks   = function(links, promise) {
 				});
 				next();
 			} else if (err) {
+				// TODO
 				errors.push(err);
 			}
 		});
@@ -47,7 +48,6 @@ app.getModuleLinks   = function(links, promise) {
 	q.push(links);
 
 	q.drain = function() {
-		console.log("Scraping terminated");
 		console.log("Errors: " + errors.length);
 		if (errors.length > 0) {
 			for(var i in errors) {
@@ -59,7 +59,7 @@ app.getModuleLinks   = function(links, promise) {
 	};
 };
 
-app.getModuleData = function(moduleLinks) {
+app.getModuleData = function(moduleLinks, promise) {
 	var modules = [], failed = [], errors = [];
 
 	var q = app.async.queue(function(url, next) {
@@ -85,6 +85,7 @@ app.getModuleData = function(moduleLinks) {
 				console.log("Modules: " + modules.length + ", Failed: " + failed.length + ", Left: " + q.length());
 				next();
 			} else if (err) {
+				// TODO
 				errors.push(err);
 			}
 		});
@@ -95,22 +96,19 @@ app.getModuleData = function(moduleLinks) {
 	q.drain = function() {
 		console.log(modules.length + " modules");
 		console.log(failed.length  + " failed");
-		console.log("Writing to file ...")
-		app.writeToFile(modules.sort(app.sortModules), failed.sort(app.sortModules));
+
+		modules.sort(app.sortModules);
+		failed.sort(app.sortModules);
+
+		promise(modules, failed);
 	};
 };
 
-app.writeToFile = function(modules, failed) {
-	var successful = 'data,json';
-	app.fs.writeFile(successful, JSON.stringify(modules, null, 2), function (err) {
+app.writeToFile = function(filename, data) {
+	console.log("Writing to file ...")
+	app.fs.writeFile(filename, JSON.stringify(data, null, 2), function (err) {
 		if (err) throw err;
-		console.log('Modules saved to ' + successful);
-	});
-
-	var unsuccessful = 'failed.json';
-	app.fs.writeFile(unsuccessful, JSON.stringify(failed, null, 2), function (err) {
-		if (err) throw err;
-		console.log('Failed saved to ' + unsuccessful);
+		console.log('Data saved to ' + filename);
 	});
 };
 
@@ -125,7 +123,7 @@ app.sortModules = function(a, b) {
 	} else {
 		return 0;
 	}
-}
+};
 
 app.run = function() {
 	app.getAlphabetLinks(function(links) {
@@ -134,7 +132,10 @@ app.run = function() {
 		app.getModuleLinks(links, function(moduleLinks) {
 			console.log(moduleLinks.length, "module links found");
 
-			app.getModuleData(moduleLinks);
+			app.getModuleData(moduleLinks, function(modules, failed) {
+				app.writeToFile('data.json', modules);
+				app.writeToFile('failed.json', failed);
+			});
 		});
 	});
 };
