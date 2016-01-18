@@ -51,7 +51,7 @@ app.getModuleLinks   = function(links, promise) {
 		console.log("Errors: " + errors.length);
 		if (errors.length > 0) {
 			for(var i in errors) {
-				console.log(i + ": " + errors[i].message);
+				console.log(i + ': ' + errors[i].message);
 			}
 		}
 
